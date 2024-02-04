@@ -1,20 +1,19 @@
-// Java - Programmers - ÄÚµùÅ×½ºÆ® ¹®Á¦ - ±âÃÊ ¹®Á¦
+// Java - Programmers - ì½”ë”©í…ŒìŠ¤íŠ¸ ë¬¸ì œ - ê¸°ì´ˆ ë¬¸ì œ
 // https://school.programmers.co.kr/learn/courses/30/lessons/181952
 
-/* ±âº» Á¦°ø ÄÚµå
- * public class ¹®ÀÚ¿­_Ãâ·ÂÇÏ±â {
+/* ê¸°ë³¸ ì œê³µ ì½”ë“œ
+ * import java.util.Scanner;
+ *
+ * public class ë¬¸ìì—´_ì¶œë ¥í•˜ê¸° {
  * 	public static void main(String[] args) {
  * 		Scanner sc = new Scanner(System.in);
  * 		String a = sc.next();
  * 	}
  * } 
 */
-
-package coding.practice.homework;
-
 import java.util.Scanner;
 
-public class ¹®ÀÚ¿­_Ãâ·ÂÇÏ±â {
+public class ë¬¸ìì—´_ì¶œë ¥í•˜ê¸° {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		String a = sc.next();
