@@ -23,3 +23,6 @@ public class 문자열_출력하기 {
 		sc.close();
 	}
 }
+
+// 소스 코드 해설
+// https://free-weave.tistory.com/21 
