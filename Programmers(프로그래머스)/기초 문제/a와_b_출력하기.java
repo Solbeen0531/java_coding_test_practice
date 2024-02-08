@@ -29,3 +29,6 @@ public class a와_b_출력하기 {
         sc.close();        
     }
 }
+
+// 소스 코드 해설
+// https://free-weave.tistory.com/22
