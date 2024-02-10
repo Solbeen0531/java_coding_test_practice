@@ -15,7 +15,7 @@
 <summary><h3> 기초 문제 (항목 보기) </h3></summary>
 <div markdown="1">
   
-[→ 기초 문제 소스코드로 이동](https://github.com/Solbeen0531/java_coding_test_practice/tree/main/Programmers(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4)/%EA%B8%B0%EC%B4%88%20%EB%AC%B8%EC%A0%9C)  
+[→ 기초 문제 소스 코드로 이동](https://github.com/Solbeen0531/java_coding_test_practice/tree/main/Programmers(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4)/%EA%B8%B0%EC%B4%88%20%EB%AC%B8%EC%A0%9C)  
 
 - ### 문자열 출력하기    /출력    /Lv.0
 - ### a와 b 출력하기    /출력    /Lv.0
@@ -29,7 +29,7 @@
 <summary><h3> ? (항목 보기) </h3></summary>
 <div markdown="1">
   
-[→ ? 소스코드로 이동](주소링크예정)  
+[→ ? 소스 코드로 이동](주소링크예정)  
 
 - ### ?
 
@@ -44,7 +44,7 @@
 <summary><h3> ? (항목 보기) </h3></summary>
 <div markdown="1">
   
-[→ ? 소스코드로 이동](주소링크예정)  
+[→ ? 소스 코드로 이동](주소링크예정)  
 
 - ### ?
 
